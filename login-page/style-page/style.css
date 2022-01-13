@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+.main-login {
+    width: 100vw;
+    height: 100vh;
+    background-color: #201b2c;
+}
